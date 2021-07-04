@@ -1,0 +1,65 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(https://fullhdoboi.ru/wp-content/uploads/_ph/22/41664680.jpg);
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+    color: black;
+    }
+img{
+    max-width: 100%;
+}
+
+.text-centr{
+    text-align: center;
+}
+
+.text-uppercase{
+    text-transform: uppercase;
+}
+.text-bold{
+    font-weight: bold;
+}
+
+.page-title{
+    letter-spacing: 1px;
+}
+
+.page-description{
+    color: grey;
+    font-size: 16px;
+}
+
+/* News Section Start */
+.news-container {
+    margin-top: 100px;
+
+}
+.news-post{
+    width: 800px;
+    margin-bottom: 50px;
+}
+img{
+    width: 800px;
+}
+.news-post-author, .news-post-date{
+    font-size: 14px;
+    color: steelblue;
+}
+.news-post-date{
+    color: gray;
+}
+.news-post-title{
+    border-left: 4px solid #303ee1 ;
+    padding-left: 10px;
+}
+.news-post-text{
+    border-left: 4px solid grey;
+    padding-left: 10px;
+    font-style: italic;
+    line-height: 22px;
+}
+.news-post-link{
+    color: cadetblue;
+}
